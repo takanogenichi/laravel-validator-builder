@@ -1,6 +1,6 @@
 {
-  "name": "shin1x1/laravel-validator-builder",
-  "description": "Laravel 4 Validator builder",
+  "name": "omoon/laravel-validator-builder",
+  "description": "Laravel Validator builder",
   "keywords": ["Laravel", "validation"],
   "homepage": "https://github.com/omoon/laravel-validator-builder",
   "license": "MIT",
