@@ -1,8 +1,8 @@
 {
-  "name": "omoon/laravel-validator-builder",
+  "name": "takanogenichi/laravel-validator-builder",
   "description": "Laravel Validator builder",
   "keywords": ["Laravel", "validation"],
-  "homepage": "https://github.com/omoon/laravel-validator-builder",
+  "homepage": "https://github.com/takanogenichi/laravel-validator-builder",
   "license": "MIT",
   "authors": [
     {
