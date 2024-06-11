@@ -3,21 +3,21 @@ namespace Shin1x1\ValidatorBuilder\Test;
 
 use Illuminate\Support\MessageBag;
 use Mockery;
-use PHPUnit_Framework_TestCase;
+use PHPUnit\Framework\TestCase;
 use Shin1x1\ValidatorBuilder\ValidatorBuilderTestTrait;
 
 /**
  * Class ValidatorBuilderTest
  * @package Shin1x1\ValidatorBuilder\Test
  */
-class ValidatorBuilderTest extends PHPUnit_Framework_TestCase
+class ValidatorBuilderTest extends TestCase
 {
     use ValidatorBuilderTestTrait;
 
     /**
      * setUp
      */
-    public function setUp()
+    public function setUp(): void
     {
         parent::setUp();
 
